@@ -21,3 +21,4 @@ do
     sudo yum update -y
 
     echo "Removing unused packages" >>$LOG_FILE
+done
